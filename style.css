@@ -76,7 +76,7 @@ h1 {
 
 .split.left {
   left: 0;
-  background: url('/images/PS5.png');
+  background: url('https://github.com/filippkz/7th-Project---Split-Landing-Page/blob/main/images/PS5.png');
   background-repeat: no-repeat;
   background-size: cover;
 }
@@ -92,7 +92,7 @@ h1 {
 
 .split.right {
   right: 0;
-  background: url('/images/Xbox.jpg');
+  background: url('https://github.com/filippkz/7th-Project---Split-Landing-Page/blob/main/images/Xbox.jpg');
   background-repeat: no-repeat;
   background-size: cover;
 }
